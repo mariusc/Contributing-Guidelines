@@ -1,4 +1,4 @@
-# Contributing-Guidelines
+# Contributing Guidelines
 
 If you would like to contribute with a link to the current week issue:
 
