@@ -4,6 +4,10 @@
 
 If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
 
+## Requirements
+
+Shouldn't be more than 2 weeks old (although exceptions can be made: e.g. Tools/Libraries).
+
 ## General Workflow
 
 Each week we launch the goodies on Thursday and create a new markdown file that will have the issues for the next week. Rui and Tiago are responsible for launching the Goodies (Website + newsletter).
@@ -26,8 +30,6 @@ We use markdown for each issue, and each link should respect this rules:
 
 * Should follow this format: ``[Title of the Article](link), by [Name of the Author](link-for-twitter)``
   * If the author doesn't have a twitter account then only the name is necessary 
-* Shouldn't be more than 2 weeks old (although exceptions can be made: e.g. Tools/Libraries).
-
 
 ## Previous Issues
 
