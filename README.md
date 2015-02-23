@@ -13,6 +13,7 @@ If you would like to contribute with a link to the current week's issue:
  * **Videos & Slides** - Self explanatory
  * **Indie Apps** - Since it's quite difficult (or expensive) for the typical Indie dev to market his/her app, we reserve this section for those awesome people.
  * In case the article is really good, and doesn't fit in any of the above sections, we will open a new section just for it.
+* If you are unsure where to put an article, check the [website](ios-goodies.com) for some examples, or [just open an issue](https://github.com/iOS-Goodies/Contributing-Guidelines/issues). 
 
 If you would like to fix a typo/link for the current or passed week:
 
