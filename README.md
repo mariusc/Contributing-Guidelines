@@ -16,4 +16,4 @@ If you would like to contribute with a link to the current week's issue:
 
 If you would like to fix a typo/link for the current or passed week:
 
-* Send a Pull Request
+* Send a Pull Request.
