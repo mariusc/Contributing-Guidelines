@@ -6,7 +6,7 @@ If you would like to contribute with a link to the current week's issue send us 
 
 ## General Workflow
 
-Each week we launch the goodies in Thursday and create a new markdown file that will have the issues for the next week. Rui and Tiago are responsible for launching the goodies.
+Each week we launch the goodies on Thursday and create a new markdown file that will have the issues for the next week. Rui and Tiago are responsible for launching the Goodies (Website + newsletter).
 
 ## Categories
 
