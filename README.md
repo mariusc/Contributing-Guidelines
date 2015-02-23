@@ -2,6 +2,7 @@
 
 If you would like to contribute with a link to the current week issue:
 
+* Send a Pull Request. After beein accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special ocasions, we can bend this rule and change the upper limit).
 * Should follow this format: **\<Title of the Article\>**, by **\<Name of the Author\>**
 * Shouldn't be more than 2 weeks old (although exception can be made: e.g. Tools/Libraries).
 * Should fit in one of the categories:
@@ -11,5 +12,8 @@ If you would like to contribute with a link to the current week issue:
  * **Business** - They help the typical developer to understand how to run his/her business. This could be related to the App store ecosystem, to how-to run your business as an indie dev, etc.
  * **Videos & Slides** - Self explanatory
  * **Indie Apps** - Since it's quite difficult (or expensive) for the typical Indie dev to market his/her app, we reserve this section for those awesome people.
+ * In case the article is really good, and doesn't fit in any of the above sections, we will open a new section just for it.
 
 If you would like to fix a typo/link for the current or passed week:
+
+* Send a Pull Request
