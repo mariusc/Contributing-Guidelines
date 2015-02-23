@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-If you would like to contribute with a link to the current week issue:
+If you would like to contribute with a link to the current week's issue:
 
 * Send a Pull Request. After beein accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special ocasions, we can bend this rule and change the upper limit).
 * Should follow this format: **\<Title of the Article\>**, by **\<Name of the Author\>**
