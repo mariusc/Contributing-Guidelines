@@ -2,7 +2,7 @@
 
 ## Contributing
 
-If you would like to contribute with a link to the current week's issue send us a Pull Request. After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
+If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
 
 ## General Workflow
 
@@ -31,4 +31,4 @@ We use markdown for each issue, and each link should respect this rules:
 
 ## Previous Issues
 
-If you would like to fix a typo/link for the current or passed week send us a Pull Request.
+If you would like to fix a typo/link for the current or passed week send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls).
