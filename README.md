@@ -2,7 +2,7 @@
 
 If you would like to contribute with a link to the current week issue:
 
-* Should follow this format: \<Title of the Article\>, by \<Name of the Author\>
+* Should follow this format: **\<Title of the Article\>**, by **\<Name of the Author\>**
 * Shouldn't be more than 2 weeks old (although exception can be made: e.g. Tools/Libraries).
 * Should fit in one of the categories:
  * **Articles** - Generally speaking these are technical articles. They should expose the reader to code, but it's not mandatory.
